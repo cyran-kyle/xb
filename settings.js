@@ -18,7 +18,7 @@ global.socialm = "GitHub: jake-net-hunter" //ur github or insta name
 global.location = "Ghana" //ur location
 
 //new
-global.botname = "Meta Bot MD"
+global.botname = "Meta Bot MD V2"
 global.ownernumber = '233596371001'
 global.ownername = 'Cyran Kyle'
 global.ownerNumber = ["233596371001@s.whatsapp.net"]
@@ -29,7 +29,7 @@ global.themeemoji = '🥀'
 global.wm = "Meta Bot inc."
 global.botscript = 'https://github.com/jake-net-hunter/xb' //script link
 global.packname = "Sticker By Meta Bot MD"
-global.author = "Meta Bot MD\n\n\nA whatsapp bot developed by\n Cyran Kyle\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +233596371001"
+global.author = "Meta Bot MD V2\n\n\nA whatsapp bot developed by\n Cyran Kyle\n\n--______--\n\nContact No. : +233596371001"
 global.creator = "233596371001@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
