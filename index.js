@@ -457,7 +457,7 @@ else if (reason === DisconnectReason.loggedOut) { console.log(`Device Logged Out
 else if (reason === DisconnectReason.restartRequired) { console.log("Restart Required, Restarting..."); XeonBotIncBot(); }
 else if (reason === DisconnectReason.timedOut) { console.log("Connection TimedOut, Reconnecting..."); XeonBotIncBot(); }
 else XeonBotInc.end(`Unknown DisconnectReason: ${reason}|${connection}`)
-} else if (connection === "open") { XeonBotInc.sendMessage(owner + "@s.whatsapp.net", { text: `*Bot started!*\n\n\n_Don't forget to support, bro :)_\n\nYouTube: https://youtube.com/@DGXeon\n\nGitHub: https://github.com/DGXeon\n\nInstsgram: https://instagram.com/unicorn_xeon?igshid=MTIzZWQxMDU=\n\nWhatsApp Pm: wa.me/916909137213\n\n WhatsApp Gc1: https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS\n\nWhatsApp Gc2: https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5\n\nWhatsApp Gc3: https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd\n\nDonate: https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg \n\n\n_*Thanks to*_\n_*Lord Buddha*_\n_*Myself*_\n_*Family*_\n_*Friends who helped me assemble this script*_` }); }
+} else if (connection === "open") { XeonBotInc.sendMessage(owner + "@s.whatsapp.net", { text: `*Bot started!*` }); }
 console.log('Connected...', update)
 })
 
